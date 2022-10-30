@@ -7,4 +7,8 @@ Completed courses:
 
 I'm Currently working as automotive mechanical designer in international enviroment with English in use every day. Reponsible for contact with customer, product development, product documentation, periodically responsible for team management. Willing to change profession.
 
+English - good 
+German - basic
+Polish - native
+
 My page (in work) https://grzegorzbuczynski.github.io/Portfolio/
