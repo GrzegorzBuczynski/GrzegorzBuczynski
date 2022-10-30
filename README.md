@@ -2,7 +2,8 @@ I'm self taught Java enthusiast, hopefully future programmer. Familiar with tech
 
 Completed courses:
 - Java core - oracle tutorial,
-- Spring and Hibernate by Chad Darby https://www.udemy.com/course/spring-hibernate-tutorial/
+- Spring and Hibernate by Chad Darby, check scope ➡ → ⇒ https://www.udemy.com/course/spring-hibernate-tutorial/
+- other udemy tutorials
 
 I'm Currently working as automotive mechanical designer in international enviroment with English in use every day. Reponsible for contact with customer, product development, product documentation, periodically responsible for team management. Willing to change profession.
 
